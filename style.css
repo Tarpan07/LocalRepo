@@ -6,10 +6,21 @@
     display: flex;
     align-content: center;
     justify-content: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 20px;
-    font-weight: 700;
+
     background-color: rgb(169, 166, 166);
     border-radius: 5px;
     box-shadow: rgb(204, 208, 212);
+}
+h2{    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+
+
+}
+ul{
+    display: flex;
+    
+    gap: 15px;
+    list-style: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
